@@ -5,7 +5,6 @@ A demostration of using Apple's ProKit.framework, a "Pro" and internal version o
 
 [Project Repo](https://github.com/x43x61x69/ProKit-Demo)
 
-
 Description
 -----------
 
@@ -54,7 +53,6 @@ Changelog
 **v0.1:**
 
 * Initial release.
-
 
 License
 -------
